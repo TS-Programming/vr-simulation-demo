@@ -1,4 +1,4 @@
-This is a virtual reality demonstration made in Unity by Tanner Samples. To play, open the BUILD folder and run "XRI Examples". This only works on Windows.
+This is a virtual reality demonstration made in Unity by Tanner Samples. To play, open the "DEMO_IS_IN_HERE folder" and run "XRI Examples". This only works on Windows.
 
 The project is a virtual reality simulation, so instead of a VR headset and gaming controller(s) it uses a standard monitor, mouse, and keyboard.
 
